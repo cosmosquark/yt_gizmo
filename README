@@ -1,0 +1,3 @@
+Code to read in isolated GIZMO/GADGET simulations into YT as a particle dataset.
+
+This is done via pygadgetreader to read the gadget binary type 1 or type 2 output files.
